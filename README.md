@@ -7,7 +7,7 @@
 ---
 
 ## 🔍 **Introdução**
-Este relatório apresenta o processo de implementação de serviços AWS na empresa **Abstergo Industries**, realizado por **[nome do responsável pelo projeto]**. O objetivo do projeto foi implementar três serviços AWS para reduzir custos operacionais de forma imediata e otimizar processos internos.
+Este relatório apresenta o processo de implementação de serviços AWS na empresa **BioPharm**. O objetivo do projeto foi implementar três serviços AWS para reduzir custos operacionais de forma imediata e otimizar processos internos.
 
 ---
 
@@ -32,7 +32,7 @@ O projeto foi dividido em três etapas principais, cada uma com foco específico
 ---
 
 ## 📈 **Conclusão**
-A adoção dos serviços AWS na **Abstergo Industries** trouxe benefícios como **redução significativa de custos operacionais, maior escalabilidade e eficiência nos processos internos**. 
+A adoção dos serviços AWS na **BioPharm** trouxe benefícios como **redução significativa de custos operacionais, maior escalabilidade e eficiência nos processos internos**. 
 
 ✅ Recomenda-se a **manutenção contínua da infraestrutura na AWS** e a **exploração de novos serviços** que possam otimizar ainda mais as operações da empresa.
 

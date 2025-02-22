@@ -1,4 +1,4 @@
-# 🚀 **RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS** 🚀
+# 📑 **RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS** 
 
 📅 **Data:** [22/02/2025]  
 🏢 **Empresa:** BioPharm  
